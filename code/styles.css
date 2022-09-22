@@ -73,3 +73,20 @@ body {
     width: 40px;
     height: 45px;
 }
+
+.card {
+    background-color: white;
+    color: black;
+    padding: 10px 20px 15px 20px;
+    margin: 30px 25px 10px 25px;
+    border-radius: 15px;
+}
+
+.card-title
+{
+    font-weight: bold;
+}
+
+.card-date {
+    font-style: italic;
+}
